@@ -1,0 +1,13 @@
+{
+    "name": "测试ocr后点击",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "launchConfig": {
+        "hideLogs": false
+    },
+    "packageName": "com.pxc.test",
+    "versionName": "1.5.0",
+    "versionCode": 5
+}
